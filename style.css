@@ -1,0 +1,20 @@
+
+/*
+Theme Name: inlay Child
+Theme URL: http://hostinger-tutorials.com
+Description: inlay.child
+Author: Jonas Thede Thomassen
+Author URL: http://hostinger-tutorials.com
+Template: inlay
+Version: 1.0.0
+Text Domain: inlay-child
+*/
+
+
+#site-header {
+    background-color: #32E8D6;
+}
+
+header#site-header {
+    background-color: #32E8D6;
+}
